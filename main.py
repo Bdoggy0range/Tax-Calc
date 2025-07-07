@@ -3,7 +3,7 @@ import pygame_gui
 
 pygame.init()
 
-pygame.display.set_caption('Quick Start')
+pygame.display.set_caption('Tax Calculator')
 window_surface = pygame.display.set_mode((800, 600))
 background = pygame.Surface((800, 600))
 background.fill(pygame.Color('#000000'))
