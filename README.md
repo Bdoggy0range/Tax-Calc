@@ -48,7 +48,4 @@ A simple desktop tax calculator built with Python, Pygame, and pygame_gui.
 ## Notes
 
 - Make sure the `buttons.json` theme file is present in the same directory as `main.py` or update the path in the code.
-
-## License
-
-MIT License
+- 
